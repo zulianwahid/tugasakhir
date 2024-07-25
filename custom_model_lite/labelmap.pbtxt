@@ -1,0 +1,20 @@
+item {
+    name: "B3",
+    id: 1,
+    display_name: "B3"
+}
+item {
+    name: "metal",
+    id: 2,
+    display_name: "metal"
+}
+item {
+    name: "non-organik",
+    id: 3,
+    display_name: "non-organik"
+}
+item {
+    name: "organik",
+    id: 4,
+    display_name: "organik"
+}
